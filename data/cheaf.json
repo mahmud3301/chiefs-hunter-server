@@ -1,56 +1,316 @@
 [
     {
-        "id": "rfqiovnasdovnasofiaov",
+        "id": 1,
         "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
         "chef_name": "John Smith",
         "bio": "John Smith is a passionate chef with a flair for creating unique and innovative dishes. With over 15 years of experience in the culinary industry, John has honed his skills and developed a deep understanding of various cooking techniques. His recipes reflect his commitment to using fresh, locally sourced ingredients to create unforgettable dining experiences. John's creations have earned him a dedicated following and numerous accolades from food enthusiasts around the world.",
         "years_of_experience": 10,
         "num_of_recipes": 50,
-        "likes": 1000
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipe_name": "Grilled Salmon with Lemon Butter Sauce",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Lemon",
+                    "Butter",
+                    "Garlic",
+                    "Salt and pepper"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat. 2. Season salmon fillets with salt and pepper. 3. Grill the salmon for about 4-5 minutes per side until cooked through. 4. In a small saucepan, melt butter over medium heat. Add minced garlic and cook until fragrant. 5. Squeeze lemon juice into the butter mixture and stir well. 6. Serve the grilled salmon with the lemon butter sauce drizzled on top.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Pesto Pasta with Sun-Dried Tomatoes",
+                "ingredients": [
+                    "Pasta",
+                    "Basil leaves",
+                    "Pine nuts",
+                    "Parmesan cheese",
+                    "Sun-dried tomatoes"
+                ],
+                "cooking_method": "1. Cook pasta according to package instructions. 2. In a food processor, blend basil leaves, pine nuts, Parmesan cheese, and olive oil until smooth. 3. Drain the cooked pasta and toss it with the pesto sauce. 4. Add sun-dried tomatoes and mix well. 5. Serve hot and garnish with additional Parmesan cheese if desired.",
+                "rating": 4.5,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Mango Salsa",
+                "ingredients": [
+                    "Ripe mango",
+                    "Red bell pepper",
+                    "Red onion",
+                    "Fresh cilantro",
+                    "Lime juice"
+                ],
+                "cooking_method": "1. Peel and dice the ripe mango. 2. Finely chop red bell pepper and red onion. 3. Chop fresh cilantro leaves. 4. In a bowl, combine mango, bell pepper, onion, and cilantro. 5. Squeeze lime juice over the mixture and toss gently to combine. 6. Refrigerate for at least 30 minutes before serving.",
+                "rating": 4.2,
+                "favorite": false
+            }
+        ]
     },
     {
-        "id": "jonadjvnaeoahwefnoe",
+        "id": 2,
         "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&w=1000&q=80",
         "chef_name": "Sarah Johnson",
         "bio": "Sarah Johnson is a talented chef known for her mastery of traditional cuisines from different cultures. With a culinary career spanning over a decade, Sarah has traveled extensively, exploring diverse culinary traditions and learning from local chefs. Her passion for blending flavors and her meticulous attention to detail are evident in her recipes. Sarah's creations are a harmonious fusion of time-honored techniques and modern interpretations, making her a favorite among food enthusiasts.",
         "years_of_experience": 8,
         "num_of_recipes": 75,
-        "likes": 1500
+        "likes": 1500,
+        "recipes": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Yogurt",
+                    "Tomato sauce",
+                    "Ginger",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Marinate chicken breasts in yogurt, ginger, and garlic paste for at least 2 hours. 2. Grill or bake the marinated chicken until cooked through. 3. In a separate pan, heat tomato sauce and add ginger-garlic paste. 4. Simmer the sauce and add cooked chicken. 5. Cook for a few more minutes until the sauce thickens. 6. Serve hot with rice or naan bread.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "Spaghetti",
+                    "Bacon",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper"
+                ],
+                "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a pan, fry bacon until crispy. Remove from heat and crumble it. 3. In a bowl, whisk eggs, Parmesan cheese, and black pepper. 4. Drain the cooked spaghetti and add it to the pan with the bacon. 5. Pour the egg mixture over the spaghetti and toss quickly to coat. 6. The residual heat will cook the eggs, creating a creamy sauce. 7. Serve immediately with extra Parmesan cheese on top.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Beef Stir-Fry with Vegetables",
+                "ingredients": [
+                    "Beef strips",
+                    "Broccoli",
+                    "Carrots",
+                    "Bell peppers",
+                    "Soy sauce"
+                ],
+                "cooking_method": "1. Heat oil in a pan or wok over high heat. 2. Add beef strips and cook until browned. Remove from the pan and set aside. 3. In the same pan, stir-fry broccoli, carrots, and bell peppers until crisp-tender. 4. Return the beef to the pan and add soy sauce. 5. Stir-fry for a few more minutes until the beef is cooked to your liking. 6. Serve hot with steamed rice.",
+                "rating": 4.6,
+                "favorite": false
+            }
+        ]
     },
     {
-        "id": "fjifnwifeufnapieq",
+        "id": 3,
         "chef_picture": "https://images.unsplash.com/photo-1562514155-444b9a967dfa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHxVY1BwTkhGWW9hVXx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
         "chef_name": "Michael Thompson",
         "bio": "Michael Thompson is a renowned chef known for his innovative approach to contemporary cuisine. With over 20 years of experience in the culinary world, Michael has worked in Michelin-starred restaurants and has been recognized for his culinary expertise. His recipes push the boundaries of flavor combinations and presentation, resulting in visually stunning and mouthwatering dishes. Michael's culinary creations have gained him a loyal following and made him a sought-after chef in the industry.",
         "likes": 12000,
         "years_of_experience": 15,
-        "num_of_recipes": 100
+        "num_of_recipes": 100,
+        "recipes": [
+            {
+                "recipe_name": "Lobster Bisque",
+                "ingredients": [
+                    "Lobster tails",
+                    "Onion",
+                    "Carrots",
+                    "Tomato paste",
+                    "Heavy cream"
+                ],
+                "cooking_method": "1. In a large pot, sauté chopped onion and carrots until softened. 2. Add tomato paste and cook for a minute. 3. Add lobster tails and enough water to cover them. Simmer for about 20 minutes. 4. Remove the lobster tails and let them cool. Remove the meat from the shells and chop it. 5. Return the chopped lobster meat to the pot. 6. Add heavy cream and bring the soup to a gentle simmer. 7. Cook for a few more minutes until heated through. 8. Season with salt and pepper to taste. 9. Serve hot with a garnish of chopped parsley.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Miso-Glazed Salmon",
+                "ingredients": [
+                    "Salmon fillets",
+                    "Miso paste",
+                    "Soy sauce",
+                    "Honey",
+                    "Ginger"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F (200°C). 2. In a bowl, mix miso paste, soy sauce, honey, and grated ginger. 3. Place the salmon fillets on a baking sheet lined with parchment paper. 4. Brush the miso glaze over the salmon fillets. 5. Bake in the preheated oven for about 12-15 minutes or until the salmon is cooked through. 6. Serve hot with steamed rice or vegetables.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Ratatouille",
+                "ingredients": [
+                    "Eggplant",
+                    "Zucchini",
+                    "Bell peppers",
+                    "Tomatoes",
+                    "Garlic"
+                ],
+                "cooking_method": "1. Preheat the oven to 375°F (190°C). 2. Slice the eggplant, zucchini, bell peppers, and tomatoes into thin rounds. 3. In a baking dish, arrange the sliced vegetables in alternating layers. 4. Drizzle olive oil over the vegetables and season with salt and pepper. 5. Bake in the preheated oven for about 45-50 minutes or until the vegetables are tender. 6. In a pan, sauté minced garlic until fragrant. 7. Remove the baked vegetables from the oven and drizzle the garlic over them. 8. Serve hot as a side dish or over cooked pasta.",
+                "rating": 4.5,
+                "favorite": false
+            }
+        ]
     },
     {
-        "id": "fjfqneruheurnfqir",
+        "id": 4,
         "chef_picture": "https://images.unsplash.com/photo-1659354213732-8cdec0a6fb47?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
         "chef_name": "Emily Davis",
         "bio": "Emily Davis is a talented pastry chef with a passion for creating delightful desserts. With 10 years of experience in the pastry industry, Emily has mastered the art of combining flavors, textures, and artistic elements to craft visually stunning and delicious treats. Her love for pastry extends beyond traditional recipes, as she constantly experiments with new ingredients and techniques to push the boundaries of dessert creations. Emily's desserts have garnered praise from both critics and dessert enthusiasts alike.",
-        "years_of_experience": 5,
+        "years_of_experience": 10,
         "num_of_recipes": 40,
-        "likes": 800
+        "likes": 800,
+        "recipes": [
+            {
+                "recipe_name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "Dark chocolate",
+                    "Butter",
+                    "Eggs",
+                    "Sugar",
+                    "Flour"
+                ],
+                "cooking_method": "1. Preheat the oven to 425°F (220°C). 2. In a microwave-safe bowl, melt the dark chocolate and butter together. 3. In a separate bowl, whisk together eggs and sugar until well combined. 4. Gradually add the melted chocolate mixture to the egg mixture, whisking constantly. 5. Add flour and stir until just combined. 6. Grease individual ramekins and pour the batter into each ramekin. 7. Bake in the preheated oven for about 12-15 minutes or until the edges are set but the center is still soft. 8. Carefully remove the ramekins from the oven and let them cool for a few minutes. 9. Invert each ramekin onto a serving plate and gently tap to release the cake. 10. Serve immediately with a dusting of powdered sugar and a scoop of vanilla ice cream.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Strawberry Shortcake",
+                "ingredients": [
+                    "Fresh strawberries",
+                    "Whipped cream",
+                    "Shortcakes",
+                    "Sugar",
+                    "Vanilla extract"
+                ],
+                "cooking_method": "1. Wash and hull the fresh strawberries, then slice them. 2. In a bowl, sprinkle sugar over the sliced strawberries and let them sit for about 10 minutes to release their juices. 3. In another bowl, whip the cream until soft peaks form. 4. Add sugar and vanilla extract to the whipped cream and continue whipping until stiff peaks form. 5. Slice the shortcakes in half horizontally. 6. Place a layer of sliced strawberries on the bottom half of each shortcake. 7. Top with a dollop of whipped cream. 8. Place the other half of the shortcake on top. 9. Serve immediately and enjoy the delicious strawberry shortcake.",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Creme Brulee",
+                "ingredients": [
+                    "Heavy cream",
+                    "Egg yolks",
+                    "Sugar",
+                    "Vanilla bean",
+                    "Granulated sugar"
+                ],
+                "cooking_method": "1. Preheat the oven to 325°F (160°C). 2. In a saucepan, heat the heavy cream and scraped vanilla bean seeds over medium heat until hot but not boiling. 3. In a separate bowl, whisk together egg yolks and sugar until well combined. 4. Slowly pour the hot cream mixture into the egg yolk mixture, whisking constantly. 5. Strain the custard mixture to remove any lumps. 6. Divide the custard among ramekins or oven-safe dishes. 7. Place the ramekins in a baking dish and fill the dish with hot water halfway up the sides of the ramekins. 8. Carefully transfer the baking dish to the preheated oven. 9. Bake for about 30-35 minutes or until the custard is set around the edges but still slightly jiggly in the center. 10. Remove the ramekins from the water bath and let them cool to room temperature. 11. Refrigerate the custards for at least 2 hours or overnight to chill and set completely. 12. Just before serving, sprinkle a thin and even layer of granulated sugar over each custard. 13. Use a kitchen torch to caramelize the sugar until golden and bubbly. 14. Allow the sugar to harden for a few minutes before serving.",
+                "rating": 4.8,
+                "favorite": false
+            }
+        ]
     },
     {
-        "id": "fniqer0fqherfuiqerno",
-        "chef_picture": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "id": 5,
+        "chef_picture": "https://images.unsplash.com/photo-1622021142947-da7dedc7c39a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWYlMjBjb29raW5nX21ldGhvZCUyMDElMjBlbmN",
         "chef_name": "Daniel Wilson",
         "bio": "Daniel Wilson is a passionate chef with a focus on sustainable and farm-to-table cooking. With 8 years of experience, Daniel has developed a deep appreciation for locally sourced ingredients and a commitment to promoting eco-friendly practices in the culinary world. His recipes emphasize the natural flavors of seasonal produce and highlight the importance of supporting local farmers. Daniel's culinary creations are a celebration of simplicity and sustainability, making him a chef admired by both food lovers and environmentalists.",
         "years_of_experience": 12,
         "num_of_recipes": 60,
-        "likes": 1200
+        "likes": 1200,
+        "recipes": [
+            {
+                "recipe_name": "Quinoa Salad with Lemon Vinaigrette",
+                "ingredients": [
+                    "Quinoa",
+                    "Cucumber",
+                    "Cherry tomatoes",
+                    "Red onion",
+                    "Kalamata olives",
+                    "Feta cheese",
+                    "Fresh parsley",
+                    "Lemon juice",
+                    "Olive oil",
+                    "Garlic",
+                    "Salt",
+                    "Black pepper"
+                ],
+                "cooking_method": "1. Cook the quinoa according to package instructions and let it cool. 2. Dice the cucumber, halve the cherry tomatoes, and finely chop the red onion. 3. In a large bowl, combine the cooked quinoa, cucumber, cherry tomatoes, red onion, kalamata olives, crumbled feta cheese, and chopped parsley. 4. In a small bowl, whisk together lemon juice, olive oil, minced garlic, salt, and black pepper to make the vinaigrette. 5. Pour the vinaigrette over the quinoa salad and toss to coat everything evenly. 6. Adjust the seasoning if needed. 7. Let the salad chill in the refrigerator for at least 30 minutes before serving to allow the flavors to meld together. 8. Serve chilled and enjoy!",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Seared Scallops with Citrus Glaze",
+                "ingredients": [
+                    "Scallops",
+                    "Orange",
+                    "Lime",
+                    "Honey",
+                    "Butter"
+                ],
+                "cooking_method": "1. Pat dry the scallops and season with salt and pepper. 2. Heat butter in a pan over medium-high heat. 3. Sear the scallops for about 2-3 minutes on each side until golden brown. 4. In a small bowl, whisk together orange juice, lime juice, and honey. 5. Pour the citrus glaze over the seared scallops. 6. Cook for an additional minute, spooning the glaze over the scallops. 7. Serve hot.",
+                "rating": 4.9,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Creme Brulee",
+                "ingredients": [
+                    "Heavy cream",
+                    "Egg yolks",
+                    "Sugar",
+                    "Vanilla bean",
+                    "Granulated sugar"
+                ],
+                "cooking_method": "1. Preheat the oven to 325°F (160°C). 2. In a saucepan, heat the heavy cream and scraped vanilla bean seeds over medium heat until hot but not boiling. 3. In a separate bowl, whisk together egg yolks and sugar until well combined. 4. Slowly pour the hot cream mixture into the egg yolk mixture, whisking constantly. 5. Strain the custard mixture to remove any lumps. 6. Divide the custard among ramekins or oven-safe dishes. 7. Place the ramekins in a baking dish and fill the dish with hot water halfway up the sides of the ramekins. 8. Carefully transfer the baking dish to the preheated oven. 9. Bake for about 30-35 minutes or until the custard is set around the edges but still slightly jiggly in the center. 10. Remove the ramekins from the water bath and let them cool to room temperature. 11. Refrigerate the custards for at least 2 hours or overnight to chill and set completely. 12. Just before serving, sprinkle a thin and even layer of granulated sugar over each custard. 13. Use a kitchen torch to caramelize the sugar until golden and bubbly. 14. Allow the sugar to harden for a few minutes before serving.",
+                "rating": 4.8,
+                "favorite": false
+            }
+        ]
     },
     {
-        "id": "fjgerughe0u8rhq8u8",
-        "chef_picture": "https://media.istockphoto.com/id/1394055240/photo/happy-black-female-chef-preparing-food-in-frying-pan-at-restaurant-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=8pARCDQkmc8X6SUnWQBY7MAdYVBSxbH8PBS3sJxLOiE=",
+        "id": 6,
+        "chef_picture": "https://images.unsplash.com/photo-1488992783499-418eb1f62d08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80",
         "chef_name": "Olivia Martinez",
-        "bio": "Olivia Martinez is a culinary prodigy with a passion for experimental and avant-garde cooking. Despite her young age, Olivia has quickly made a name for herself in the culinary world with her bold flavors and innovative techniques. Her unique approach to ingredients and presentation challenges traditional notions of what a dish can be. Olivia's recipes are a feast for the senses, pushing boundaries and delighting adventurous food enthusiasts. With a growing following and a reputation for culinary innovation, Olivia continues to inspire and amaze with her gastronomic creations.",
-        "years_of_experience": 7,
-        "num_of_recipes": 90,
-        "likes": 1800
+        "bio": "Olivia Martinez is a versatile chef known for her expertise in international cuisine. With a culinary career spanning over 15 years, Olivia has honed her skills in various renowned restaurants around the world. She draws inspiration from different cultures and flavors to create unique and innovative dishes. Olivia's recipes are a fusion of traditional techniques and contemporary twists, resulting in delightful and memorable culinary experiences.",
+        "years_of_experience": 15,
+        "num_of_recipes": 80,
+        "likes": 2500,
+        "recipes": [
+            {
+                "recipe_name": "Quinoa Salad with Lemon Vinaigrette",
+                "ingredients": [
+                    "Quinoa",
+                    "Cucumber",
+                    "Cherry tomatoes",
+                    "Red onion",
+                    "Kalamata olives",
+                    "Feta cheese",
+                    "Fresh parsley",
+                    "Lemon juice",
+                    "Olive oil",
+                    "Garlic",
+                    "Salt",
+                    "Black pepper"
+                ],
+                "cooking_method": "1. Cook the quinoa according to package instructions and let it cool. 2. Dice the cucumber, halve the cherry tomatoes, and finely chop the red onion. 3. In a large bowl, combine the cooked quinoa, cucumber, cherry tomatoes, red onion, kalamata olives, crumbled feta cheese, and chopped parsley. 4. In a small bowl, whisk together lemon juice, olive oil, minced garlic, salt, and black pepper to make the vinaigrette. 5. Pour the vinaigrette over the quinoa salad and toss to coat everything evenly. 6. Adjust the seasoning if needed. 7. Let the salad chill in the refrigerator for at least 30 minutes before serving to allow the flavors to meld together. 8. Serve chilled and enjoy!",
+                "rating": 4.7,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Creme Brulee",
+                "ingredients": [
+                    "Heavy cream",
+                    "Egg yolks",
+                    "Sugar",
+                    "Vanilla bean",
+                    "Granulated sugar"
+                ],
+                "cooking_method": "1. Preheat the oven to 325°F (160°C). 2. In a saucepan, heat the heavy cream and scraped vanilla bean seeds over medium heat until hot but not boiling. 3. In a separate bowl, whisk together egg yolks and sugar until well combined. 4. Slowly pour the hot cream mixture into the egg yolk mixture, whisking constantly. 5. Strain the custard mixture to remove any lumps. 6. Divide the custard among ramekins or oven-safe dishes. 7. Place the ramekins in a baking dish and fill the dish with hot water halfway up the sides of the ramekins. 8. Carefully transfer the baking dish to the preheated oven. 9. Bake for about 30-35 minutes or until the custard is set around the edges but still slightly jiggly in the center. 10. Remove the ramekins from the water bath and let them cool to room temperature. 11. Refrigerate the custards for at least 2 hours or overnight to chill and set completely. 12. Just before serving, sprinkle a thin and even layer of granulated sugar over each custard. 13. Use a kitchen torch to caramelize the sugar until golden and bubbly. 14. Allow the sugar to harden for a few minutes before serving.",
+                "rating": 4.8,
+                "favorite": false
+            },
+            {
+                "recipe_name": "Creme Brulee",
+                "ingredients": [
+                    "Heavy cream",
+                    "Egg yolks",
+                    "Sugar",
+                    "Vanilla bean",
+                    "Granulated sugar"
+                ],
+                "cooking_method": "1. Preheat the oven to 325°F (160°C). 2. In a saucepan, heat the heavy cream and scraped vanilla bean seeds over medium heat until hot but not boiling. 3. In a separate bowl, whisk together egg yolks and sugar until well combined. 4. Slowly pour the hot cream mixture into the egg yolk mixture, whisking constantly. 5. Strain the custard mixture to remove any lumps. 6. Divide the custard among ramekins or oven-safe dishes. 7. Place the ramekins in a baking dish and fill the dish with hot water halfway up the sides of the ramekins. 8. Carefully transfer the baking dish to the preheated oven. 9. Bake for about 30-35 minutes or until the custard is set around the edges but still slightly jiggly in the center. 10. Remove the ramekins from the water bath and let them cool to room temperature. 11. Refrigerate the custards for at least 2 hours or overnight to chill and set completely. 12. Just before serving, sprinkle a thin and even layer of granulated sugar over each custard. 13. Use a kitchen torch to caramelize the sugar until golden and bubbly. 14. Allow the sugar to harden for a few minutes before serving.",
+                "rating": 4.8,
+                "favorite": false
+            }
+        ]
     }
 ]
