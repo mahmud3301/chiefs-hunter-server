@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+        "chef_picture": "https://media-cdn.tripadvisor.com/media/photo-s/0b/19/e7/e3/open-kitchen.jpg",
         "chef_name": "John Smith",
         "bio": "John Smith is a passionate chef with a flair for creating unique and innovative dishes. With over 15 years of experience in the culinary industry, John has honed his skills and developed a deep understanding of various cooking techniques. His recipes reflect his commitment to using fresh, locally sourced ingredients to create unforgettable dining experiences. John's creations have earned him a dedicated following and numerous accolades from food enthusiasts around the world.",
         "years_of_experience": 10,
@@ -51,7 +51,7 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&w=1000&q=80",
+        "chef_picture": "https://img.freepik.com/premium-photo/portrait-young-asian-female-chef-background_296537-8747.jpg?w=900",
         "chef_name": "Sarah Johnson",
         "bio": "Sarah Johnson is a talented chef known for her mastery of traditional cuisines from different cultures. With a culinary career spanning over a decade, Sarah has traveled extensively, exploring diverse culinary traditions and learning from local chefs. Her passion for blending flavors and her meticulous attention to detail are evident in her recipes. Sarah's creations are a harmonious fusion of time-honored techniques and modern interpretations, making her a favorite among food enthusiasts.",
         "years_of_experience": 8,
